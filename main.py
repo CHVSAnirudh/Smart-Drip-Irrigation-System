@@ -22,7 +22,7 @@ data2send = {
             "title": "Msg From NodeMCU",
             "body": "",
             }
-API_KEY = 'o.sAj0Umd8g5TGdjRCeyI59w36zSOvTtHu'
+API_KEY = 'api key'
 
 pb_headers = {
 'Access-Token': API_KEY,
