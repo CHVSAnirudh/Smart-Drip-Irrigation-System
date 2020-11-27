@@ -1,1 +1,2 @@
 # Smart-Drip-Irrigation-System
+a dynamic irrigation system which aims at providing adequate amount of water for sustainable and organic plant growth. Used ESP32(microcontroller) to collect data from various moisture sensors and to toggle the solenoid valve (control water flow). The data collected is uploaded and analysed at opensource platform Io.Adafruit.com, It was also connected to Google Home (Voice Assistant).  Used micro-python for the development. Also developed a WIFI manager for the embedded system. 
